@@ -27,3 +27,4 @@ From this page you can either touch the link to open your Litecoin wallet, or co
 
 # Pay with your Litecoin wallet
 
+![Image](https://github.com/physicsdude/payanything/blob/master/public/img/demo/litecoin-block-explorer.jpg)
