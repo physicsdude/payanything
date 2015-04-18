@@ -3,10 +3,6 @@ PayAnything - Mobile Altcoin Payments Using ShapeShift Technology
 
 Want to pay for stuff with your altcoins while on the go? Do merchants only accept Bitcoin? We've got the app for you :)
 
-There's a Live Demo Online At
-
-http://payanything.meteor.com/
-
 # Choose what coin to pay with
 
 ![Image](https://raw.githubusercontent.com/physicsdude/payanything/master/public/img/demo/home.jpg)
@@ -27,4 +23,10 @@ From this page you can either touch the link to open your Litecoin wallet, or co
 
 # Pay with your Litecoin wallet
 
-![Image](https://github.com/physicsdude/payanything/blob/master/public/img/demo/litecoin-block-explorer.jpg)
+...
+
+# Check out that the payment went through on a Litecoin block explorer
+
+![Image](https://raw.githubusercontent.com/physicsdude/payanything/master/public/img/demo/litecon-block-explorer.jpg)
+
+# The merchant should receive their payment in Bitcoin shortly
