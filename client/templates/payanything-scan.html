@@ -1,0 +1,22 @@
+<template name="payanythingScan">
+  <div class="page auth">
+    <nav>
+      <div class="nav-group">
+        <a href="#" class="js-menu nav-item"><span class="icon-list-unordered"></span></a>
+      </div>
+    </nav>
+    <div class="content-scrollable" style="background-image: url(/img/background.jpg); background-size: cover;">
+      <div class="wrapper-auth">
+        <div class="heroandtext">
+          <div class="herotext" style="font-color: white; display: inline-block; max-width: 300px; vertical-aign: top;">
+            <h1 class="title-auth">Scan QR Code</h1>
+
+            {{> qrScanner}}
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</template>
